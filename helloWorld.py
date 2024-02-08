@@ -3,5 +3,5 @@ def Triangle(n):
         for j in range(i+1):
             print("*", end="")
         print()
-print("hello")
+print("hello world")
 Triangle(10)
